@@ -43,7 +43,7 @@ Github Repository: https://github.com/Richardflores009/budget-tracker <br>
 ### Website Version
 ![](img/web.png)
 ### Downloaded Application Version
-![](img/app.png)
+![](https://raw.githubusercontent.com/Richardflores009/budget-tracker/main/public/img/app.png)
 
 
 
